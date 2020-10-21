@@ -1,6 +1,7 @@
 import numpy as np
 
 from simple_functions import pi
+from simple_functions import mysin
 
 
 class TestPi(object):
