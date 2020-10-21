@@ -25,3 +25,5 @@ def sin(x,n):
 x=int(input("x in degrees: "))
 n=int(input("number of terms "+"'n'" ": "))
 print(round(sin(x,n),2))
+
+#IMLOSSSSSSINIT
